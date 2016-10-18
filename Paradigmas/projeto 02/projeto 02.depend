@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\joanderson\desktop\lp\projeto 02\main.cpp
+	<iostream>
+
+1476684872 source:c:\users\joanderson\desktop\projeto 02\main.cpp
+	<iostream>
+	"retangulo.h"
+	"figurageometrica.h"
+	"reta.h"
+	"circulo.h"
+	<vector>
+
+1476706988 c:\users\joanderson\desktop\projeto 02\retangulo.h
+	"figurageometrica.h"
+
+1476684872 c:\users\joanderson\desktop\projeto 02\figurageometrica.h
+
+1476706975 c:\users\joanderson\desktop\projeto 02\reta.h
+	"figurageometrica.h"
+
+1476706975 c:\users\joanderson\desktop\projeto 02\circulo.h
+	"figurageometrica.h"
+
+1476706435 source:c:\users\joanderson\desktop\projeto 02\screen.cpp
+	"Screen.h"
+	<vector>
+
+1476706390 c:\users\joanderson\desktop\projeto 02\screen.h
+	<vector>
+
+1476684872 source:c:\users\joanderson\desktop\projeto 02\circulo.cpp
+	"circulo.h"
+	<iostream>
+
+1476684872 source:c:\users\joanderson\desktop\projeto 02\figurageometrica.cpp
+	"figurageometrica.h"
+
+1476684872 source:c:\users\joanderson\desktop\paradigmas\projeto 02\circulo.cpp
+	"circulo.h"
+	<iostream>
+
+1476706975 c:\users\joanderson\desktop\paradigmas\projeto 02\circulo.h
+	"figurageometrica.h"
+
+1476712322 c:\users\joanderson\desktop\paradigmas\projeto 02\figurageometrica.h
+
+1476684872 source:c:\users\joanderson\desktop\paradigmas\projeto 02\figurageometrica.cpp
+	"figurageometrica.h"
+
+1476712341 source:c:\users\joanderson\desktop\paradigmas\projeto 02\main.cpp
+	<iostream>
+	"retangulo.h"
+	"figurageometrica.h"
+	"reta.h"
+	"circulo.h"
+	<vector>
+
+1476706988 c:\users\joanderson\desktop\paradigmas\projeto 02\retangulo.h
+	"figurageometrica.h"
+
+1476712242 c:\users\joanderson\desktop\paradigmas\projeto 02\reta.h
+	"figurageometrica.h"
+	"Ponto.h"
+
+1474854894 c:\users\joanderson\desktop\paradigmas\projeto 02\ponto.h
+
+1476684872 source:c:\users\joanderson\desktop\paradigmas\projeto 02\retangulo.cpp
+	"retangulo.h"
+	<iostream>
+
+1476706435 source:c:\users\joanderson\desktop\paradigmas\projeto 02\screen.cpp
+	"Screen.h"
+	<vector>
+
+1476706390 c:\users\joanderson\desktop\paradigmas\projeto 02\screen.h
+	<vector>
+
+1474753884 source:c:\users\joanderson\desktop\paradigmas\projeto 02\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+

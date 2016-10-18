@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1474455384 source:c:\users\suporte\desktop\projeto\poligono.cpp
+	"Poligono.h"
+	"Ponto.h"
+	<cmath>
+	<iostream>
+
+1474455390 c:\users\suporte\desktop\projeto\poligono.h
+	"Ponto.h"
+
+1474455263 c:\users\suporte\desktop\projeto\ponto.h
+
+1474455239 source:c:\users\suporte\desktop\projeto\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1474455508 source:c:\users\suporte\desktop\projeto\retangulo.cpp
+	"Retangulo.h"
+
+1474455507 c:\users\suporte\desktop\projeto\retangulo.h
+	"Poligono.h"
+
+1474455537 source:c:\users\suporte\desktop\projeto\main.cpp
+	<iostream>
+	"Retangulo.h"
+
+1474573012 source:c:\users\joanderson\desktop\bct\2016.2\paradigmas\projeto\main.cpp
+	<iostream>
+	<cmath>
+	"Retangulo.h"
+
+1474455507 c:\users\joanderson\desktop\bct\2016.2\paradigmas\projeto\retangulo.h
+	"Poligono.h"
+
+1474565439 c:\users\joanderson\desktop\bct\2016.2\paradigmas\projeto\poligono.h
+	"Ponto.h"
+
+1474455263 c:\users\joanderson\desktop\bct\2016.2\paradigmas\projeto\ponto.h
+
+1474455239 source:c:\users\joanderson\desktop\bct\2016.2\paradigmas\projeto\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1474455508 source:c:\users\joanderson\desktop\bct\2016.2\paradigmas\projeto\retangulo.cpp
+	"Retangulo.h"
+
+1474570174 source:c:\users\joanderson\desktop\bct\2016.2\paradigmas\projeto\poligono.cpp
+	"Poligono.h"
+	"Ponto.h"
+	<cmath>
+	<iostream>
+
+1474634718 source:e:\users\user14\desktop\tratamento-de-poligonos01-master\tratamento-de-poligonos\projeto\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1474634707 e:\users\user14\desktop\tratamento-de-poligonos01-master\tratamento-de-poligonos\projeto\ponto.h
+
+1474573426 source:e:\users\user14\desktop\tratamento-de-poligonos01-master\tratamento-de-poligonos\projeto\retangulo.cpp
+	"Retangulo.h"
+
+1474634707 e:\users\user14\desktop\tratamento-de-poligonos01-master\tratamento-de-poligonos\projeto\retangulo.h
+	"Poligono.h"
+
+1474634707 e:\users\user14\desktop\tratamento-de-poligonos01-master\tratamento-de-poligonos\projeto\poligono.h
+	"Ponto.h"
+
+1474634368 source:e:\users\user14\desktop\tratamento-de-poligonos01-master\tratamento-de-poligonos\projeto\main.cpp
+	<iostream>
+	<cmath>
+	"Retangulo.h"
+
+1474634707 source:e:\users\user14\desktop\tratamento-de-poligonos01-master\tratamento-de-poligonos\projeto\poligono.cpp
+	"Poligono.h"
+	"Ponto.h"
+	<cmath>
+	<iostream>
+
+1474856323 source:c:\users\joanderson\documents\github\tratamento-de-poligonos\tratamento-de-poligonos\projeto\main.cpp
+	<iostream>
+	<cmath>
+	"Retangulo.h"
+
+1474854769 c:\users\joanderson\documents\github\tratamento-de-poligonos\tratamento-de-poligonos\projeto\retangulo.h
+	"Poligono.h"
+
+1474854894 c:\users\joanderson\documents\github\tratamento-de-poligonos\tratamento-de-poligonos\projeto\poligono.h
+	"Ponto.h"
+
+1474854894 c:\users\joanderson\documents\github\tratamento-de-poligonos\tratamento-de-poligonos\projeto\ponto.h
+
+1474856354 source:c:\users\joanderson\documents\github\tratamento-de-poligonos\tratamento-de-poligonos\projeto\poligono.cpp
+	"Poligono.h"
+	"Ponto.h"
+	<cmath>
+	<iostream>
+
+1474753884 source:c:\users\joanderson\documents\github\tratamento-de-poligonos\tratamento-de-poligonos\projeto\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1474753884 source:c:\users\joanderson\documents\github\tratamento-de-poligonos\tratamento-de-poligonos\projeto\retangulo.cpp
+	"Retangulo.h"
+

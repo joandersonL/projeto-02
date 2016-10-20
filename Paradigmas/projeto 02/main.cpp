@@ -10,7 +10,7 @@ using namespace std;
 
 int main(){
   Screen t(10,10);
-  Reta r(1,1,8,8);
+  Retangulo r(4,4,2,4);
   t.setPincel('X');
   r.draw(t);
   t.imprimirTela();

@@ -12,13 +12,14 @@ Screen :: Screen(int _nlin,int _ncol){
 
     for(int i=0;i<nlin;i++){
         for(int j=0;j<nlin;j++){
-            mat[i][j] = ' ';
+            mat[i][j] = 'O';
         }
     }
 }
 
 void Screen :: limparTela(){
     for(int i=0;i<nlin;i++){
+
         for(int j=0;j<nlin;j++){
             mat[i][j] = ' ';
         }
@@ -31,7 +32,13 @@ void Screen :: setPixel(int x,int y){
     mat[x][y] = pincel;
 }
 void Screen::imprimirTela(){
+    cout<<"  ";
     for(int i=0;i<nlin;i++){
+        cout<<i;
+    }
+    cout<<"\n";
+    for(int i=0;i<nlin;i++){
+        cout<<i<<" ";
         for(int j=0;j<nlin;j++){
             cout<< mat[i][j];
         }

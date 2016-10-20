@@ -135,3 +135,63 @@
 	<vector>
 	<iostream>
 
+1476786968 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.cpp
+	"circulo.h"
+	<iostream>
+
+1476997069 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.h
+	"figurageometrica.h"
+	"Ponto.h"
+
+1476895116 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\figurageometrica.h
+	"Screen.h"
+
+1476894764 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.h
+	<vector>
+
+1476786968 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\figurageometrica.cpp
+	"figurageometrica.h"
+
+1476993721 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\main.cpp
+	<iostream>
+	"retangulo.h"
+	"figurageometrica.h"
+	"reta.h"
+	"circulo.h"
+	"Screen.h"
+	<vector>
+
+1476993484 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\retangulo.h
+	"figurageometrica.h"
+	"Ponto.h"
+
+1476895184 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\reta.h
+	"figurageometrica.h"
+	"Ponto.h"
+	"Screen.h"
+
+1476786968 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\ponto.h
+
+1476786968 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1476989784 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\reta.cpp
+	"reta.h"
+	"Ponto.h"
+	"Screen.h"
+	<iostream>
+	<cmath>
+
+1476994326 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\retangulo.cpp
+	"retangulo.h"
+	<iostream>
+	"Ponto.h"
+	"reta.h"
+
+1476988561 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.cpp
+	"Screen.h"
+	<vector>
+	<iostream>
+

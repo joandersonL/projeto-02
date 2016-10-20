@@ -17,9 +17,11 @@ public:
 
     void setPixel(int x,int y);
 
-    void liparTela();
+    void limparTela();
 
     void setPincel(char _pincel);
+
+    void imprimirTela();
 
 };
 

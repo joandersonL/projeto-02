@@ -1,16 +1,13 @@
 #ifndef FIGURAGEOMETRICA_H
 #define FIGURAGEOMETRICA_H
+#include "Screen.h"
 
 class FiguraGeometrica{
 public:
   FiguraGeometrica();
-  // classes que contenham pelo menos
-  // uma funcao virtual pura sao chamadas
-  // classes abstratas
-  //
-  // funcao virtual pura
+
   virtual void pos(void)=0;
-  //virtual void draw(Screen &t)=0;
+  virtual void draw(Screen &t)=0;
 };
 
 #endif // FIGURAGEOMETRICA_H

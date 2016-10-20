@@ -80,3 +80,58 @@
 	<iostream>
 	<cmath>
 
+1476786968 source:e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\circulo.cpp
+	"circulo.h"
+	<iostream>
+
+1476786968 e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\circulo.h
+	"figurageometrica.h"
+
+1476895117 e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\figurageometrica.h
+	"Screen.h"
+
+1476786968 source:e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\figurageometrica.cpp
+	"figurageometrica.h"
+
+1476786968 source:e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1476786968 e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\ponto.h
+
+1476786968 source:e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\retangulo.cpp
+	"retangulo.h"
+	<iostream>
+
+1476786968 e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\retangulo.h
+	"figurageometrica.h"
+
+1476897447 source:e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\main.cpp
+	<iostream>
+	"retangulo.h"
+	"figurageometrica.h"
+	"reta.h"
+	"circulo.h"
+	"Screen.h"
+	<vector>
+
+1476895184 e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\reta.h
+	"figurageometrica.h"
+	"Ponto.h"
+	"Screen.h"
+
+1476894764 e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\screen.h
+	<vector>
+
+1476897254 source:e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\reta.cpp
+	"reta.h"
+	"Ponto.h"
+	"Screen.h"
+	<iostream>
+
+1476897371 source:e:\users\monitoria03\desktop\projeto-02-master\paradigmas\projeto 02\screen.cpp
+	"Screen.h"
+	<vector>
+	<iostream>
+

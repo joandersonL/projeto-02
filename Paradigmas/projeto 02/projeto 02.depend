@@ -135,9 +135,11 @@
 	<vector>
 	<iostream>
 
-1476786968 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.cpp
+1477057244 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.cpp
 	"circulo.h"
 	<iostream>
+	"Ponto.h"
+	<cmath>
 
 1476997069 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.h
 	"figurageometrica.h"
@@ -152,7 +154,7 @@
 1476786968 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\figurageometrica.cpp
 	"figurageometrica.h"
 
-1476993721 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\main.cpp
+1477057268 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\main.cpp
 	<iostream>
 	"retangulo.h"
 	"figurageometrica.h"
@@ -190,7 +192,7 @@
 	"Ponto.h"
 	"reta.h"
 
-1476988561 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.cpp
+1477056847 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.cpp
 	"Screen.h"
 	<vector>
 	<iostream>

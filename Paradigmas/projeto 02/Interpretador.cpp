@@ -18,6 +18,7 @@ Interpretador :: Interpretador(ifstream &fin, char ed[])
     {
         exit(0);
     }
+    br.push_back('X');
     string s;
     stringstream ss;
     while(fin.good())
@@ -39,7 +40,7 @@ Interpretador :: Interpretador(ifstream &fin, char ed[])
                 }
                 else
                 {
-                    if(n==0) br.push_back('X');
+
                     if(s.compare(string("brush"))==0)
                     {
                         char a;

@@ -1,0 +1,7 @@
+dim 30 30
+brush +
+circle  15 10 5 0
+
+circle  10 15 5 0
+
+circle  15 20 5 0

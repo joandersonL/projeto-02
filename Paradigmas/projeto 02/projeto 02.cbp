@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Interpretador.cpp" />
+		<Unit filename="Interpretador.h" />
 		<Unit filename="Ponto.cpp" />
 		<Unit filename="Ponto.h" />
 		<Unit filename="Screen.cpp" />

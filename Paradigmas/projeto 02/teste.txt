@@ -1,3 +1,7 @@
-dim 10 10
+dim 50 50
 brush .
-line 0 0 10 10
+line 5 5 10 10
+brush %
+retangle 5 6 20 20
+brush x
+circle 17 17 5 1

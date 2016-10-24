@@ -18,7 +18,6 @@ int main()
     ofstream telaSaida;
     Interpretador de(test,"teste.txt");
     Screen t(de.getLinha(),de.getColuna());
-    Screen t2(de.getLinha(),de.getColuna());
     for(int i=0;i<de.getN();i++){
         t.setPincel(de.getPicel(i));
         de.getFigura(i)->draw(t);

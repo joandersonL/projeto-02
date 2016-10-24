@@ -135,33 +135,35 @@
 	<vector>
 	<iostream>
 
-1477057244 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.cpp
+1477247912 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.cpp
 	"circulo.h"
 	<iostream>
 	"Ponto.h"
 	<cmath>
 
-1476997069 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.h
+1477247689 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\circulo.h
 	"figurageometrica.h"
 	"Ponto.h"
 
 1476895116 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\figurageometrica.h
 	"Screen.h"
 
-1476894764 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.h
+1477271185 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.h
 	<vector>
+	<iostream>
 
 1476786968 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\figurageometrica.cpp
 	"figurageometrica.h"
 
-1477057268 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\main.cpp
+1477270556 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\main.cpp
 	<iostream>
+	<fstream>
 	"retangulo.h"
 	"figurageometrica.h"
 	"reta.h"
 	"circulo.h"
 	"Screen.h"
-	<vector>
+	"Interpretador.h"
 
 1476993484 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\retangulo.h
 	"figurageometrica.h"
@@ -192,8 +194,25 @@
 	"Ponto.h"
 	"reta.h"
 
-1477056847 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.cpp
+1477271486 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\screen.cpp
 	"Screen.h"
 	<vector>
 	<iostream>
+
+1477271483 source:c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\interpretador.cpp
+	<fstream>
+	<cstdlib>
+	<string>
+	<sstream>
+	"reta.h"
+	"retangulo.h"
+	"circulo.h"
+	"Interpretador.h"
+
+1477271459 c:\users\joanderson\documents\github\projeto-02\paradigmas\projeto 02\interpretador.h
+	<fstream>
+	<vector>
+	"figurageometrica.h"
+	<string>
+	<fstream>
 

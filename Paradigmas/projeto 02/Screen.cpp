@@ -33,11 +33,13 @@ void Screen :: setPixel(int x,int y){
     bool aux2 = (y>=0 && y<ncol);
     if(aux1&&aux2)mat[x][y] = pincel;
 }
-void Screen::imprimirTela(){
-    for(int i=0;i<nlin;i++){
-        for(int j=0;j<nlin;j++){
-            cout<< mat[i][j];
+ostream& operator<<(ostream &os, Screen &t){
+    for(int i=0;i<t.nlin;i++){
+        for(int j=0;j<t.nlin;j++){
+            os<< t.mat[i][j];
         }
-        cout<<endl;
+        os<<endl;
     }
+    return os;
 }
+

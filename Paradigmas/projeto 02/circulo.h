@@ -7,9 +7,10 @@ class Circulo : public FiguraGeometrica {
 private:
     Ponto p;
     int r;
+    int mode;
 
 public:
-    Circulo(int x,int y,int _r);
+    Circulo(int x,int y,int _r,int _mode=0);
     void pos(void);
     void draw(Screen &t);
 

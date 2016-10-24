@@ -1,0 +1,3 @@
+dim 10 10
+brush .
+line 0 0 10 10

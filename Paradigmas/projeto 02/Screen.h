@@ -1,6 +1,7 @@
 #ifndef SCREEN_H_INCLUDED
 #define SCREEN_H_INCLUDED
 #include <vector>
+#include <iostream>
 
 using namespace std;
 
@@ -21,7 +22,7 @@ public:
 
     void setPincel(char _pincel);
 
-    void imprimirTela();
+    friend ostream& operator<<(ostream &os, Screen &t);
 
 };
 
